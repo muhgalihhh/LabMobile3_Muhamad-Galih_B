@@ -74,14 +74,16 @@ https://github.com/user-attachments/assets/e3f191d0-7f04-4820-b559-6bf1db13a647
 
 # Penjelasan Aplikasi
 
-## Daftar Fitur Utama
+## <a id="fitur-utama"></a>Daftar Fitur Utama 
 1. [Login Page](#login-page)
 2. [Home Page](#home-page)
 3. [About Page](#about-page)
 4. [Search Film](#search-film)
 5. [MovieDetailPopup](#movie-detail)
 
+
 ## <a id="login-page"></a>Login Page
+[Daftar-Fitur](#fitur-utama)
 Berikut adalah penjelasan tentang kode Flutter yang didefinisikan dalam kelas `LoginPage`, yang berfungsi sebagai halaman login untuk aplikasi:
 
 ### Komponen Utama:
@@ -161,6 +163,7 @@ Berikut adalah penjelasan tentang kode Flutter yang didefinisikan dalam kelas `L
 Widget `LoginPage` ini menyediakan antarmuka yang ramah pengguna untuk melakukan login ke aplikasi, dilengkapi dengan animasi, validasi input, dan umpan balik kepada pengguna. Ini memanfaatkan `SharedPreferences` untuk menyimpan data pengguna secara lokal, memastikan pengalaman yang lancar di antara sesi-sesi yang berbeda.
 
 ## <a id="home-page"></a>Home Page
+[Daftar-Fitur](#fitur-utama)
 Berikut adalah penjelasan tentang kode Flutter dalam kelas `HomePage`, yang berfungsi sebagai halaman utama aplikasi pencarian film:
 
 ### Komponen Utama:
@@ -262,6 +265,7 @@ Berikut adalah penjelasan tentang kode Flutter dalam kelas `HomePage`, yang berf
 Widget `HomePage` ini menyediakan antarmuka yang ramah pengguna untuk halaman utama aplikasi pencarian film. Halaman ini menyambut pengguna dengan nama mereka, mengarahkan mereka ke fitur pencarian film, dan menampilkan menu samping untuk navigasi tambahan. Penggunaan `SharedPreferences` memastikan bahwa nama pengguna disimpan dan ditampilkan dengan baik di halaman.
 
 ## <a id="about-page"></a>About Page
+[Daftar-Fitur](#fitur-utama)
 Berikut adalah penjelasan tentang kode Flutter dalam kelas `AboutPage`, yang berfungsi sebagai halaman tentang aplikasi pencarian film:
 
 ### Komponen Utama:
@@ -381,6 +385,7 @@ Berikut adalah penjelasan tentang kode Flutter dalam kelas `AboutPage`, yang ber
 Widget `AboutPage` ini memberikan informasi penting tentang aplikasi, menjelaskan tujuan, fitur, dan informasi pengembang. Halaman ini dirancang dengan antarmuka yang bersih dan responsif, serta memudahkan pengguna untuk memahami lebih lanjut tentang aplikasi pencarian film yang mereka gunakan. Desain yang sederhana dengan penggunaan `ListTile` dan teks terstruktur membuat informasi mudah dibaca dan dinavigasi.
 
 ## <a id="search-film"></a>Search Film
+[Daftar-Fitur](#fitur-utama)
 Berikut adalah penjelasan dengan sorotan pada bagian kode penting dari kelas `SearchFilm` dalam aplikasi Flutter:
 
 ### Kelas SearchFilm
@@ -538,6 +543,7 @@ Kelas `SearchFilm` memungkinkan pengguna untuk:
 Dengan desain yang bersih dan intuitif, kelas ini memberikan pengalaman pengguna yang baik dalam mencari dan meneliti film.
 
 ## <a id="movie-detail"></a>MovieDetailPopup
+[Daftar-Fitur](#fitur-utama)
 Berikut adalah penjelasan mengenai kelas `MovieDetailPopup`, yang merupakan dialog pop-up untuk menampilkan detail film dalam aplikasi Flutter:
 
 ### Penjelasan Kode
