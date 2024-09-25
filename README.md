@@ -1,16 +1,65 @@
-# modul_3
+# Searching Film Menggunakan API
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-2.5.0-blue.svg?logo=flutter)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-2.14.0-blue.svg?logo=dart)](https://dart.dev/)
+[![Android](https://img.shields.io/badge/Platform-Android-green.svg?logo=android)](https://developer.android.com/)
+[![iOS](https://img.shields.io/badge/Platform-iOS-green.svg?logo=apple)](https://developer.apple.com/ios/)
 
-## Getting Started
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/user-attachments/assets/595d8118-e3e4-48a0-ab91-1e181ead8217" height="120" alt="anime-yes"/>
+    </td>
+    <td style="vertical-align: middle;">
+      <h5>Nama: Muhamad Galih</h5>
+      <h5>NIM: H1D022052</h5>
+      <h5>Shift: E (Baru)</h5>
+    </td>
+  </tr>
+</table>
 
-This project is a starting point for a Flutter application.
+## Deskripsi
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi Flutter ini adalah aplikasi manajemen film yang memungkinkan pengguna untuk menjelajahi, mencari, dan mendapatkan informasi mengenai film favorit mereka. Aplikasi ini dilengkapi dengan sistem autentikasi menggunakan SharedPreferences untuk menyimpan informasi pengguna. Dengan antarmuka yang bersih dan intuitif, aplikasi ini memberikan pengalaman pengguna yang menyenangkan dalam menjelajahi dunia film.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Fitur
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Sistem Autentikasi**: Pengguna dapat login dan menyimpan informasi pengguna (seperti nama) menggunakan SharedPreferences.
+- **Navigasi Mudah**: Menggunakan drawer untuk navigasi antara halaman Home, Pencarian Film, dan halaman About dengan ikon yang intuitif.
+- **Pencarian Film**: Pengguna dapat mencari film dengan mudah melalui halaman pencarian yang disediakan.
+- **Pesan Selamat Datang**: Menampilkan pesan selamat datang kepada pengguna di menu samping setelah login.
+- **Logout yang Aman**: Menyediakan opsi logout dengan konfirmasi untuk memastikan pengguna tidak keluar tanpa sengaja.
+- **Desain Responsif**: Antarmuka yang responsif dengan tema warna yang bersih, memberikan pengalaman pengguna yang nyaman dan profesional.
+
+## Prerequisites
+
+Sebelum memulai, pastikan Anda memiliki hal berikut:
+
+- [Flutter](https://flutter.dev/docs/get-started/install) versi terbaru
+- [Dart](https://dart.dev/get-dart) versi terbaru
+
+## Instalasi
+
+1. Clone repositori ini ke mesin lokal Anda:
+
+    ```bash
+    git clone https://github.com/muhgalihhh/Tugas2Praktikum2024/
+    ```
+
+2. Masuk ke direktori proyek:
+
+    ```bash
+    cd yourrepository
+    ```
+
+3. Install dependensi dengan perintah:
+
+    ```bash
+    flutter pub get
+    ```
+
+4. Jalankan aplikasi dengan:
+
+    ```bash
+    flutter run
+    ```
