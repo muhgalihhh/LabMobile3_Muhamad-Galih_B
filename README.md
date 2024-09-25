@@ -63,3 +63,12 @@ Sebelum memulai, pastikan Anda memiliki hal berikut:
     ```bash
     flutter run
     ```
+
+
+# Demo Aplikasi
+
+
+
+https://github.com/user-attachments/assets/e3f191d0-7f04-4820-b559-6bf1db13a647
+
+
