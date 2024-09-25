@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/e3f191d0-7f04-4820-b559-6bf1db13a647
 2. [Home Page](#home-page)
 3. [About Page](#about-page)
 
-## LoginPage
+## <a id="login-page"></a>Login Page
 Berikut adalah penjelasan tentang kode Flutter yang didefinisikan dalam kelas `LoginPage`, yang berfungsi sebagai halaman login untuk aplikasi:
 
 ### Komponen Utama:
@@ -156,7 +156,7 @@ Berikut adalah penjelasan tentang kode Flutter yang didefinisikan dalam kelas `L
 ### Fungsi Keseluruhan:
 Widget `LoginPage` ini menyediakan antarmuka yang ramah pengguna untuk melakukan login ke aplikasi, dilengkapi dengan animasi, validasi input, dan umpan balik kepada pengguna. Ini memanfaatkan `SharedPreferences` untuk menyimpan data pengguna secara lokal, memastikan pengalaman yang lancar di antara sesi-sesi yang berbeda.
 
-## HomePage
+## <a id="home-page"></a>Home Page
 Berikut adalah penjelasan tentang kode Flutter dalam kelas `HomePage`, yang berfungsi sebagai halaman utama aplikasi pencarian film:
 
 ### Komponen Utama:
