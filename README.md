@@ -73,9 +73,13 @@ https://github.com/user-attachments/assets/e3f191d0-7f04-4820-b559-6bf1db13a647
 
 
 # Penjelasan Aplikasi
+
+## Daftar Fitur Utama
 1. [Login Page](#login-page)
 2. [Home Page](#home-page)
 3. [About Page](#about-page)
+4. [Search Film](#search-film)
+5. [MovieDetailPopup](#movie-detail)
 
 ## <a id="login-page"></a>Login Page
 Berikut adalah penjelasan tentang kode Flutter yang didefinisikan dalam kelas `LoginPage`, yang berfungsi sebagai halaman login untuk aplikasi:
@@ -257,7 +261,7 @@ Berikut adalah penjelasan tentang kode Flutter dalam kelas `HomePage`, yang berf
 ### Fungsi Keseluruhan:
 Widget `HomePage` ini menyediakan antarmuka yang ramah pengguna untuk halaman utama aplikasi pencarian film. Halaman ini menyambut pengguna dengan nama mereka, mengarahkan mereka ke fitur pencarian film, dan menampilkan menu samping untuk navigasi tambahan. Penggunaan `SharedPreferences` memastikan bahwa nama pengguna disimpan dan ditampilkan dengan baik di halaman.
 
-## AboutPage
+## <a id="about-page"></a>About Page
 Berikut adalah penjelasan tentang kode Flutter dalam kelas `AboutPage`, yang berfungsi sebagai halaman tentang aplikasi pencarian film:
 
 ### Komponen Utama:
@@ -376,7 +380,7 @@ Berikut adalah penjelasan tentang kode Flutter dalam kelas `AboutPage`, yang ber
 ### Fungsi Keseluruhan:
 Widget `AboutPage` ini memberikan informasi penting tentang aplikasi, menjelaskan tujuan, fitur, dan informasi pengembang. Halaman ini dirancang dengan antarmuka yang bersih dan responsif, serta memudahkan pengguna untuk memahami lebih lanjut tentang aplikasi pencarian film yang mereka gunakan. Desain yang sederhana dengan penggunaan `ListTile` dan teks terstruktur membuat informasi mudah dibaca dan dinavigasi.
 
-## SearchFilm
+## <a id="search-film"></a>Search Film
 Berikut adalah penjelasan dengan sorotan pada bagian kode penting dari kelas `SearchFilm` dalam aplikasi Flutter:
 
 ### Kelas SearchFilm
@@ -533,7 +537,7 @@ Kelas `SearchFilm` memungkinkan pengguna untuk:
 
 Dengan desain yang bersih dan intuitif, kelas ini memberikan pengalaman pengguna yang baik dalam mencari dan meneliti film.
 
-## MovieDetailPopup
+## <a id="movie-detail"></a>MovieDetailPopup
 Berikut adalah penjelasan mengenai kelas `MovieDetailPopup`, yang merupakan dialog pop-up untuk menampilkan detail film dalam aplikasi Flutter:
 
 ### Penjelasan Kode
