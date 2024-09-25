@@ -72,3 +72,7 @@ Sebelum memulai, pastikan Anda memiliki hal berikut:
 https://github.com/user-attachments/assets/e3f191d0-7f04-4820-b559-6bf1db13a647
 
 
+# Penjelasan Aplikasi
+
+## LoginPage
+
