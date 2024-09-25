@@ -43,7 +43,7 @@ Sebelum memulai, pastikan Anda memiliki hal berikut:
 1. Clone repositori ini ke mesin lokal Anda:
 
     ```bash
-    git clone https://github.com/muhgalihhh/Tugas2Praktikum2024/
+    git clone https://github.com/muhgalihhh/LabMobile3_Muhamad-Galih_E
     ```
 
 2. Masuk ke direktori proyek:
