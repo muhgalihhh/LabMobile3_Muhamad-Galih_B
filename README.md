@@ -73,6 +73,9 @@ https://github.com/user-attachments/assets/e3f191d0-7f04-4820-b559-6bf1db13a647
 
 
 # Penjelasan Aplikasi
+1. [Login Page](#login-page)
+2. [Home Page](#home-page)
+3. [About Page](#about-page)
 
 ## LoginPage
 Berikut adalah penjelasan tentang kode Flutter yang didefinisikan dalam kelas `LoginPage`, yang berfungsi sebagai halaman login untuk aplikasi:
